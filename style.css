@@ -7,17 +7,27 @@ body {
 
 h1 {
     color: #F08080;
-    font-size: 34px;
+    font-size: 36px;
     font-family: 'cwTeXFangSong', serif;
     text-align: center;
     text-shadow: 1.5px 1.5px 2px #434040;
 }
 
 h2 {
-    color: #B87333;
+    color: #875526;
     font-size: 26px;
     text-align: center;
     font-family: 'cwTeXFangSong', serif;
+}
+
+h3 {
+    color: #406fb1;
+    width: 70%;
+    margin: 0 auto;
+    margin-bottom: 18px;
+    font-size: 24px;
+    font-family: 'cwTeXFangSong', serif;
+    line-height: 25pt;
 }
 
 p {
@@ -27,6 +37,13 @@ p {
     margin-bottom: 22px;
     font-size: 22px;
     font-family: 'cwTeXFangSong', serif;
+    line-height: 25pt;
+}
+
+span {
+    display: block;
+    text-align: center;
+    font-size: 26px;
 }
 
 .button {
@@ -45,7 +62,7 @@ p {
 }
 
 img {
-    width: 500px;
+    width: 40%;
     display: flex;
     margin: auto;
     margin-bottom: 20px;
